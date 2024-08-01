@@ -482,13 +482,13 @@ guistrings.research.researched_items=研究项目
 guistrings.research.research_needed=研究需要
 
 #npc
-entity.ancientwarfarenpc.aw_npc_worker.name=工人
-entity.ancientwarfarenpc.aw_npc_combat.name=士兵
-entity.ancientwarfarenpc.aw_npc_courier.name=信使
-entity.ancientwarfarenpc.aw_npc_trader.name=商人
-entity.ancientwarfarenpc.aw_npc_priest.name=牧师
-entity.ancientwarfarenpc.aw_npc_bard.name=吟游诗人
-entity.ancientwarfarenpc.bandit.archer.name=强盗弓箭手
+entity.AncientwarfareNpc.aw_npc_worker.name=工人
+entity.AncientwarfareNpc.aw_npc_combat.name=士兵
+entity.AncientwarfareNpc.aw_npc_courier.name=信使
+entity.AncientwarfareNpc.aw_npc_trader.name=商人
+entity.AncientwarfareNpc.aw_npc_priest.name=牧师
+entity.AncientwarfareNpc.aw_npc_bard.name=吟游诗人
+entity.AncientwarfareNpc.bandit.archer.name=强盗弓箭手
 entity.AncientWarfareNpc.bandit.archer.elite.name=精英强盗弓箭手
 entity.ancientwarfarenpc.bandit.soldier.name=强盗士兵
 entity.AncientWarfareNpc.bandit.soldier.elite.name=精英强盗士兵
@@ -503,7 +503,6 @@ entity.AncientWarfareNpc.bandit.civilian.female.name=强盗平民女
 entity.AncientWarfareNpc.bandit.bard.name=强盗吟游诗人
 entity.ancientwarfarenpc.desert.archer.name=沙漠原住民弓箭手
 entity.AncientWarfareNpc.desert.archer.elite.name=精英沙漠原住民弓箭手
-
 entity.ancientwarfarenpc.desert.soldier.name=沙漠原住民士兵
 entity.AncientWarfareNpc.desert.soldier.elite.name=精英沙漠原住民士兵
 entity.AncientWarfareNpc.desert.cavalry.name=沙漠骑兵
@@ -511,6 +510,7 @@ entity.AncientWarfareNpc.desert.mounted_archer.name=骑兵沙漠弓箭手
 entity.ancientwarfarenpc.desert.trader.name=沙漠原住民商人
 entity.ancientwarfarenpc.desert.priest.name=沙漠原住民牧师
 entity.ancientwarfarenpc.desert.leader.name=沙漠原住民首领
+entity.AncientWarfareNpc.desert.leader.elite.name=精英沙漠原住民首领
 entity.AncientWarfareNpc.desert.civilian.male.name=沙漠原住民平民男
 entity.AncientWarfareNpc.desert.civilian.female.name=沙漠原住民平民女
 entity.AncientWarfareNpc.desert.bard.name=沙漠吟游诗人
